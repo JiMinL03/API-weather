@@ -6,4 +6,4 @@
 - **개발 환경:** Visual Studio Code
 - **API:** openWeather api
 - **출처:** [달의 위상 아이콘](https://www.flaticon.com/kr/free-icons/-) 제작자: Saepul Nahwan - Flaticon
-<img src="https://github.com/JiMinL03/weather/assets/147581729/2eaf88a1-358e-4740-8d05-90e12fbf1902" width = "100%">
+<img src="https://github.com/JiMinL03/weather/assets/147581729/1c44b726-8ebb-4062-b2f5-7e14a0f984af" width = "100%">
