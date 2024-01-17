@@ -1,0 +1,49 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #80BCBD, #F9F7C9);
+    height: 100vh;
+}
+
+.container {
+    padding: 100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #eee;
+    box-shadow: 0 5px 15px #517979;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+
+}
+
+input {
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 10px;
+    width: 100px;
+    position: absolute;
+    top: 130px;
+    border: 2px solid #80BCBD;
+    outline: none;
+}
+input:focus {
+    border-color: #f5f18e; /* 클릭 시 테두리 색상 변경 */
+}
+
+.city{
+    color: #4c7474;
+    font-size: 25px;
+}
+.temp{
+    color: #4c7474;
+    font-size: 50px;
+}
+
+.sky{
+    color: #4c7474;
+}
